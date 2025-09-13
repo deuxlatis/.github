@@ -1,4 +1,4 @@
-# 👋 Welcome to [Your Organization Name]
+# 👋 Welcome to DeuxLatis
 
 We’re a team of developers, data scientists, and creators building tools for **[your domain/mission]**.  
 Our goal: **[short mission statement, e.g. "make financial markets more accessible through open-source technology."]**
