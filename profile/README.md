@@ -1,7 +1,7 @@
 # 👋 Welcome to DeuxLatis
 
-We’re a team of developers, data scientists, and creators building tools for **[your domain/mission]**.  
-Our goal: **[short mission statement, e.g. "make financial markets more accessible through open-source technology."]**
+We’re a team of developers, data scientists, and creators building digital tools and applications.  
+Our goal: **"enjoy the work and improve as we go"]**
 
 ---
 
